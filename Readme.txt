@@ -5,3 +5,5 @@ I have divided the scripts into 2 files
 - "App Context" to create an association between flow and the app
 
 I used PowerShell ISE in the demo. You can select specific lines in the file and press F8 to run the selected lines.
+
+Replace the parameters values such as EnvironmentName and FlowName before executing these commands.
